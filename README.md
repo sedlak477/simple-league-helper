@@ -6,10 +6,10 @@ This simple script detects when you start a [League of Legends](https://leagueof
 
 ## Information
 
-It shows you common starting items and builds for the champion you are playing. It also displays the skill order for you current champion.
+It shows you common starting items and builds for the champion you are playing. It also displays the skill order for your current champion.
 The information is scraped from [op.gg](https://op.gg/).
 
-It also displays your current champion stats, including:
+It also displays your current in-gmae champion stats, including:
 * Attack Damage
 * Ability Power
 * Armor
